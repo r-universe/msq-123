@@ -1,10 +1,10 @@
 [
   {
-    "package": "chromseq",
+    "package": "CovidMutations",
     "oncran": true
   },
   {
-    "package": "CovidMutations",
+    "package": "chromseq",
     "oncran": true
   }
 ]
