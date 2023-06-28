@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "chromseq"]
 	path = chromseq
 	url = https://github.com/msq-123/chromseq
-	shallow = true
-	registered = true
 [submodule "CovidMutations"]
 	path = CovidMutations
 	url = https://github.com/msq-123/covidmutations
-	shallow = true
-	registered = true
