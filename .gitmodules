@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "chromseq"]
-	path = chromseq
-	url = https://github.com/msq-123/chromseq
 [submodule "CovidMutations"]
 	path = CovidMutations
 	url = https://github.com/msq-123/covidmutations
+[submodule "chromseq"]
+	path = chromseq
+	url = https://github.com/msq-123/chromseq
